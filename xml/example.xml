@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cb:recipe xmlns:cb="http://cookbook.com/xml/ns">
+  <cb:name>Nopea Kanapasta</cb:name>
+  <cb:author>Tomi Kaistila</cb:author>
+  <cb:source>https://www.k-ruoka.fi/reseptit/nopea-kanapasta</cb:source>
+  <cb:ingredients>
+    <cb:ingredient>
+      <cb:name>pasta</cb:name>
+      <cb:description>Tagliatelle tuorepasta</cb:description>
+      <cb:volume unit="g">250</cb:volume>
+    </cb:ingredient>
+    <cb:ingredient>
+      <cb:name>kana</cb:name>
+      <cb:description>kanan fileesuikaleita</cb:description>
+      <cb:volume unit="g">450</cb:volume>
+    </cb:ingredient>
+    <cb:ingredient>
+      <cb:name>öljy</cb:name>
+      <cb:description>öljyä</cb:description>
+      <cb:volume unit="rkl">1</cb:volume>
+    </cb:ingredient>
+    <cb:ingredient>
+      <cb:name>sipuli</cb:name>
+      <cb:description>hienonnettua sipulia</cb:description>
+      <cb:volume unit="g">100</cb:volume>
+    </cb:ingredient>
+    <cb:ingredient>
+      <cb:name>tuorejuusto</cb:name>
+      <cb:description>Tuorejuustoa</cb:description>
+      <cb:volume unit="g">180</cb:volume>
+    </cb:ingredient>
+    <cb:ingredient>
+      <cb:name>kirsikkatomaatti</cb:name>
+      <cb:description>kirsikkatomaatteja</cb:description>
+      <cb:volume unit="g">250</cb:volume>
+    </cb:ingredient>
+  </cb:ingredients>
+  <cb:instructions>
+    <cb:step>
+      Keitä pasta pakkauksen ohjeen mukaan suolalla maustetussa vedessä. Ota 1-2 dl pastan keitinvettä talteen.
+      Valuta pasta lävikössä.
+    </cb:step>
+    <cb:step>
+      Ruskista broilerisuikaleet paistokasarissa kahdessa erässä. Lisää sipulikuutiot ja anna kuullottua.
+      Lisää tuorejuusto ja 1 dl pastan keitinlientä.
+    </cb:step>
+    <cb:step>
+      Sekoita pasta kastikkeen joukkoon, Lisää tarvittaessa pastan keitinlientä (tai vettä).
+      Puolita kirsikkatomaatit ja sekoita ne pastaan. Rouhi pastan sekaan mustapippuria makusi mukaan.
+    </cb:step>
+    <cb:step>
+      Ripottele pinnalle runsaasti hienonnettua basilikaa. Tarjoa nopea kanapasta heti.
+    </cb:step>
+  </cb:instructions>
+  <cb:tags>
+    <cb:tag>broileri</cb:tag>
+    <cb:tag>pasta</cb:tag>
+  </cb:tags>
+</cb:recipe>
+
